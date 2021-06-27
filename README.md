@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yagiz2873
 - 👀 I’m interested in Web Design
-- 🌱 I’m currently learning Frontend Developer
+- 🌱 I’m currently learning Frontend Developing Languages and Frameworks(HTML5,CSS3,Javascript,Jquery,Bootstrap4)
 - 📫 How to reach me Yagizesmer@hotmail.com
 
 <!---
