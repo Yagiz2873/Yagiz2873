@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yagiz2873
-- 👀 I’m interested in Web Design-Frontend Development
-- 🌱 I’m currently learning Frontend Developing Languages, Libraries and Frameworks 
+- 👀 I’m generally interested in Data field.
+- 🌱 I’m currently learning Excel, SQL, PowerBI and Python as well as the concepts and techniques of the data analysis. I'm looking for a job as a data analyst, data scientist, business intelligence expert or reporting expert. I can start working as an intern or junior if you want.
 - 📫 How to reach me Yesmerligil@hotmail.com //  www.linkedin.com/in/yağız-esmerligil            
 
 <!---
